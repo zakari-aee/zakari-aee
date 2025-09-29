@@ -51,9 +51,9 @@
 ---
 
 ## 🏆 42 Badge
-<p align="center">
-  <a href="https://badge.mediaplus.ma/greenbinary/zallioua">
-    <img src="https://badge.mediaplus.ma/greenbinary/zallioua" alt="42 Badge" />
+<p align="center"> 
+  <a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/darkblue/zallioua" alt="zallioua's 42 stats" /></a>
   </a>
 </p>
 
