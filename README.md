@@ -10,9 +10,6 @@
   <a href="http://linkedin.com/in/zakariae-alliouate" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/zakari-aee">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-  </a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=zakari-aee&style=for-the-badge&color=0ea5e9"/>
 </p>
 
