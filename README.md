@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=ZAKARIAE+ALLIOUATE;FULL+STACK+DEVELOPER" alt="Typing intro" />
 </p>
@@ -56,4 +55,4 @@
 ## 📫 Contact
 * 📧 **Email:** `zakariaealliouate@gmail.com`
 * 💼 **LinkedIn:** [zakariae-alliouate](http://linkedin.com/in/zakariae-alliouate)
-* 🌐 **Web Site :** [Visite >>](http://zakariaealliouate.vercel.app)
+* 🌐 **Web Site :** [Visite >>](http://zakariaealliouate.vercel.app taregt="_blank")
