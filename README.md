@@ -55,4 +55,4 @@
 ## 📫 Contact
 * 📧 **Email:** `zakariaealliouate@gmail.com`
 * 💼 **LinkedIn:** [zakariae-alliouate](http://linkedin.com/in/zakariae-alliouate)
-* 🌐 **Web Site :** [Visite >>](http://zakariaealliouate.vercel.app taregt="_blank")
+* 🌐 **Web Site :** [Visite >>](http://zakariaealliouate.vercel.app)
