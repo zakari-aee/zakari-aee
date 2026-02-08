@@ -21,6 +21,10 @@
 * 🌱 Currently polishing **React + Laravel + Python + C**
 
 ---
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,bash,git,linux,JavaScript,MySQL,laravel,react,php&perline=6" />
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
