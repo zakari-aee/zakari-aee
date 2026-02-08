@@ -18,7 +18,7 @@
 * 🎓 **AI | Data Science | Full Stack developer**
 * 💻 Building **full-stack apps** with clean architecture & good DX
 * 🚀 Passionate about **scalable systems**
-* 🌱 Currently polishing **React + Laravel + Python + C**
+* 🌱 Currently polishing **React + Laravel + SQL + Python + C**
 
 ---
 ## 🛠️ Tech Stack
