@@ -15,7 +15,7 @@
 
 ```text
 $ whoami
-→ Full Stack Developer · Web & Systems · Meknès, Morocco
+→ Developer · Web & Systems · Meknès, Morocco
 → Building clean, scalable apps with good developer experience
 → Currently going deeper into React · Laravel · Python · C
 ```
