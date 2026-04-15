@@ -59,8 +59,12 @@ $ whoami
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zakari-aee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=94A3B8&text_color=64748B&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakari-aee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zakari-aee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=94A3B8&text_color=64748B&rank_icon=github&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakari-aee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=64748B&cache_seconds=1800" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zakari-aee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=475569&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
 </div>
 
 ---
