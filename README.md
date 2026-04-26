@@ -67,15 +67,6 @@ $ whoami
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zakari-aee&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1E293B&ring=475569&fire=94A3B8&currStreakLabel=94A3B8&sideLabels=64748B&dates=64748B" />
 </div>
 
----
-
-## 42 Network
-
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/levi/zallioua" alt="zallioua's 42 stats" />
-  </a>
-</div>
 
 ---
 
