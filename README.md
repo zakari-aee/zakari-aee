@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&lines=Zakariae+Alliouate;Developer" alt="ZAKARIAE ALLIOUATE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&lines=ZAKARIAE+ALLIOUATE;DEVELOPER" alt="ZAKARIAE ALLIOUATE" />
 
 <br/>
 
