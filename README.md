@@ -49,7 +49,6 @@ Currently focused on:
 
 ## 42 / 1337
 
-```text
 42 / 1337 Rabat
 │
 ├── C
