@@ -1,63 +1,81 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=E5E7EB&center=true&vCenter=true&width=600&lines=Zakariae+Alliouate;Software+Developer;42+%2F+1337+Rabat+Student" alt="Typing SVG" />
+# Zakariae Alliouate
 
-<br/>
-
-### Software Developer · 42 / 1337 Rabat 🇲🇦
+### Software Developer · 42 / 1337 Rabat
 
 Building software from low-level C to modern full-stack applications.
 
-<br/>
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square\&logo=vercel\&logoColor=white)](https://alliouate.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/zakariae-alliouate)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:zakariaealliouate@gmail.com)
+<a href="https://alliouate.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/zakariae-alliouate">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:zakariaealliouate@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/zakari_aee/">
+  <img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logo=leetcode&logoColor=FFA116" />
+</a>
 
 </div>
 
----
+<br>
 
 ## About
 
+I'm a software developer and student at **42 Network / 1337 Rabat**.
+
+I enjoy understanding how software works from the inside out — from memory, pointers and Unix systems to APIs, databases and modern web applications.
+
+Currently focused on:
+
+`C` · `Algorithms` · `Linux` · `System Programming` · `Full Stack`
+
+<br>
+
+## Tech
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,js,ts,python,php,react,nextjs,nodejs,laravel,mysql,postgres,mongodb,redis,docker,linux,git&perline=8" />
+
+</div>
+
+<br>
+
+## 42 / 1337
+
 ```text
-Student at 42 Network / 1337 Rabat
-Software Developer
-Meknès, Morocco
-```
-
-I enjoy understanding how software works from the inside out.
-
-Currently focused on **C, Linux, algorithms, system programming, and full-stack development**.
-
----
-
-## Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,js,ts,python,php,react,nextjs,nodejs,laravel,mysql,postgres,mongodb,redis,docker,linux,git,vscode" />
-
-</p>
-
----
-
-## GitHub
-
+42 / 1337 Rabat
+│
+├── C
+├── Memory Management
+├── Algorithms
+├── Data Structures
+├── Unix / Linux
+└── System Programming
+<br>
+Currently
+learning   → C · Algorithms · Unix · Systems
+building   → Full-stack applications
+using      → Arch Linux · Git · Docker
+improving  → Problem solving · Software architecture
+<br>
 <div align="center">
+C · Linux · Systems · Web
 
-<img height="165" src="https://github-readme-stats-rouge-delta-80.vercel.app/api?username=zakari-aee&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117" />
+<sub>Learning how things work. Building things that work.</sub>
 
-<img height="165" src="https://github-readme-stats-rouge-delta-80.vercel.app/api/top-langs/?username=zakari-aee&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117" />
+<br><br>
 
-</div>
+<a href="https://github.com/zakari-aee">GitHub</a>
+ · 
+<a href="https://alliouate.vercel.app">Portfolio</a>
+ · 
+<a href="https://linkedin.com/in/zakariae-alliouate">LinkedIn</a>
 
----
-
-<div align="center">
-
-### `C · Linux · Systems · Web`
-
-<sub>Learning. Building. Improving.</sub>
-
-</div>
+</div> ```
